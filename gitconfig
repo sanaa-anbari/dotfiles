@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sanaa.anbari1@gmail.com
+	name = sanaa anbari
